@@ -1,0 +1,199 @@
+.header {
+    height: 200px;
+}
+
+.text {
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-top: -110px;
+    margin-left: 200px;
+}
+
+.work {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 76em;
+}
+
+.about {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 79em;
+}
+
+.wrapper {
+    text-align: center;
+    margin-bottom: 140px;
+}
+
+/*miui styles*/
+.miui {
+    position: relative;
+    display: inline-block;
+}
+
+.miui .details {
+    width: 500px;
+    height: 300px;
+    background: url(../resources/miui.png);
+    overflow: hidden;
+    background-size:cover;
+}
+
+.miui .img__description {
+    opacity: 1;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+
+/*redesign styles*/
+.redesign {
+    position: relative;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.redesign .details {
+    width: 500px;
+    height: 300px;
+    background: url(../resources/redesign.png);
+    overflow: hidden;
+    background-size: cover;
+}
+
+.redesign .img__description {
+    opacity: 1;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+/*development styles*/
+.development {
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.development .details {
+    width: 500px;
+    height: 300px;
+    background: url(../resources/music.png);
+    overflow: hidden;
+    background-size: cover;
+}
+
+.development .img__description {
+    opacity: 1;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+/*interactive styles*/
+.interactive {
+    position: relative;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.interactive .details {
+    width: 500px;
+    height: 300px;
+    background: url(../resources/home.png);
+    overflow: hidden;
+    background-size: cover;
+}
+
+.interactive .img__description {
+    opacity: 1;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+.name {
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    position:relative;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.get-now {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    margin: 0;
+    padding: 5px 20px;
+    color: white;
+    text-shadow: 0 -1px 0 #3D561F;
+    border: 1px solid #4D682B;
+    background-color: #657948;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #82A353), color-stop(0.5, #62843C), color-stop(0.51, #5B7E32), color-stop(1, #476928));
+    background: -webkit-linear-gradient(top, #82A353 0%, #62843C 50%, #5B7E32 51%, #476928 100%);
+    background: -moz-linear-gradient(top, #82A353 0%, #62843C 50%, #5B7E32 51%, #476928 100%);
+    background: -ms-linear-gradient(top, #82A353 0%, #62843C 50%, #5B7E32 51%, #476928 100%);
+    background: -o-linear-gradient(top, #82A353 0%, #62843C 50%, #5B7E32 51%, #476928 100%);
+    background: linear-gradient(top, #82A353 0%, #62843C 50%, #5B7E32 51%, #476928 100%);
+    -webkit-box-shadow: inset 0 1px 1px #9ECF7A, inset 0 -1px 1px #355828, 0 1px 3px #666;
+    -moz-box-shadow: inset 0 1px 1px #9ECF7A, inset 0 -1px 1px #355828, 0 1px 3px #666;
+    -o-box-shadow: inset 0 1px 1px #9ECF7A, inset 0 -1px 1px #355828, 0 1px 3px #666;
+    -ms-box-shadow: inset 0 1px 1px #9ECF7A, inset 0 -1px 1px #355828, 0 1px 3px #666;
+    box-shadow: inset 0 1px 1px #9ECF7A, inset 0 -1px 1px #355828, 0 1px 3px #666;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.classeswrapper {
+
+}
+
+
+
+/*a {*/
+/*  text-decoration: none;*/
+/*  color: #698145;*/
+/*}*/
+
+
+.next {
+    height: 25cm;
+    background: url(../resources/home.png) bottom left repeat-x;
+}
+
