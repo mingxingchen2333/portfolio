@@ -105,16 +105,14 @@ export default class Home extends Component {
                 </div>
                 <div className="wrapper">
                     <div id="row1">
-                        <div className="miui" onMouseEnter={this.handleMouseEnterPart1}
-                             onMouseLeave={this.handleMouseLeavePart1}>
+                        <div className="miui" onMouseEnter={this.handleMouseEnterPart1} onMouseLeave={this.handleMouseLeavePart1} onClick={event => window.location.href='./miui'}>
                             <div className="details" style={{opacity: this.state.opacity1}}/>
                             <div className="img__description" style={{display: this.state.display1}}>
                                 <h1>MiUi</h1>
                                 <p>Designed interfaces for Xiaomi</p>
                             </div>
                         </div>
-                        <div className="redesign" onMouseEnter={this.handleMouseEnterPart2}
-                             onMouseLeave={this.handleMouseLeavePart2}>
+                        <div className="redesign" onMouseEnter={this.handleMouseEnterPart2} onMouseLeave={this.handleMouseLeavePart2} onClick={event => window.location.href='./redesign'}>
                             <div className="details" style={{opacity: this.state.opacity2}}/>
                             <div className="img__description" style={{display: this.state.display2}}>
                                 <h1>Redesign</h1>
@@ -122,15 +120,13 @@ export default class Home extends Component {
                         </div>
                     </div>
                     <div id="row2">
-                        <div className="development" onMouseEnter={this.handleMouseEnterPart3}
-                             onMouseLeave={this.handleMouseLeavePart3}>
+                        <div className="development" onMouseEnter={this.handleMouseEnterPart3} onMouseLeave={this.handleMouseLeavePart3} onClick={event => window.location.href='./music'}>
                             <div className="details" style={{opacity: this.state.opacity3}}/>
                             <div className="img__description" style={{display: this.state.display3}}>
                                 <h1>Music Hunter</h1>
                             </div>
                         </div>
-                        <div className="interactive" onMouseEnter={this.handleMouseEnterPart4}
-                             onMouseLeave={this.handleMouseLeavePart4}>
+                        <div className="interactive" onMouseEnter={this.handleMouseEnterPart4} onMouseLeave={this.handleMouseLeavePart4} onClick={event => window.location.href='/kraftful'}>
                             <div className="details" style={{opacity: this.state.opacity4}}/>
                             <div className="img__description" style={{display: this.state.display4}}>
                                 <h1>Smart Robot</h1>
