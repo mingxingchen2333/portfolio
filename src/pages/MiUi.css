@@ -1,9 +1,79 @@
+.head {
+    height: 70px;
+    background-color: #F6F6F6;
+    opacity: 0.8;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow: 0px 20px 10px -15px #111;
+}
+
+.text {
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    color: #282828;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.work {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 82em;
+}
+
+.about {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 85em;
+}
+
 .project-intro {
-    height: 100px;
-    background-color: #5B7E32;
+    height: 700px;
+    opacity: 0.8;
+    background: url(../resources/apps.png);
+    overflow: hidden;
+    background-size:cover;
 }
 
 .main-features {
-    height: 100px;
-    background-color: #666666;
+    height: 600px;
+    position: relative;
+    background-color: black;
+    text-align: center;
+}
+
+.main-features .introduction1 {
+    color: #F6F6F6;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+.main-features .introduction2 {
+    color: #F6F6F6;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 18px;
+    margin-left: 230px;
+    margin-top: 180px;
+}
+
+.main-features .gif {
+    position: absolute;
+    bottom: 0;
+    margin-left: 400px
+}
+
+.preface {
+    height: 700px;
+    background-color: #F6F6F6;
 }

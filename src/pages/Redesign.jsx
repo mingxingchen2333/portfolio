@@ -7,9 +7,7 @@ export default class Redesign extends Component {
 
     render() {
         return (
-            <body>
-            Redesign
-            </body>
+            <div>12312</div>
         );
     }
 

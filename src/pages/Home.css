@@ -1,12 +1,12 @@
 .header {
-    height: 200px;
+    height: 100px;
 }
 
 .text {
     font-family: Bradley Hand, cursive;
     font-size: 20px;
     position: absolute;
-    margin-top: -110px;
+    margin-top: -80px;
     margin-left: 200px;
 }
 
@@ -14,7 +14,7 @@
     font-family: Georgia, serif;
     font-size: 15px;
     position: absolute;
-    margin-top: -100px;
+    margin-top: -80px;
     margin-left: 76em;
 }
 
@@ -48,7 +48,7 @@
 .miui .img__description {
     opacity: 1;
     position: absolute;
-    margin-top: -100px;
+    margin-top: -130px;
     margin-left: 140px;
 }
 

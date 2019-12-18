@@ -99,16 +99,16 @@ export default class Home extends Component {
                 <body className='fixed'>
                 <div>
                     <div className="header"/>
-                    <p className="text">Xingchen Ming</p>
-                    <p className="work"><a style={{textDecoration: 'none', color: '#797D7F'}}>Work</a></p>
-                    <p className="about"><a style={{textDecoration: 'none', color: '#797D7F'}} href={'/about'}>About</a></p>
+                    <p className="text"><a style={{textDecoration: 'none', color: '#282828', fontSize:'25px'}} href={'/'}>Xingchen Ming</a></p>
+                    <p className="work"><a style={{textDecoration: 'none', color: '#282828'}}>Work</a></p>
+                    <p className="about"><a style={{textDecoration: 'none', color: '#282828'}} href={'/about'}>About</a></p>
                 </div>
                 <div className="wrapper">
                     <div id="row1">
                         <div className="miui" onMouseEnter={this.handleMouseEnterPart1} onMouseLeave={this.handleMouseLeavePart1} onClick={event => window.location.href='./miui'}>
                             <div className="details" style={{opacity: this.state.opacity1}}/>
                             <div className="img__description" style={{display: this.state.display1}}>
-                                <h1>MiUi</h1>
+                                <h1 style={{}}>MiUi</h1>
                                 <p>Designed interfaces for Xiaomi</p>
                             </div>
                         </div>
