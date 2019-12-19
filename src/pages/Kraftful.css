@@ -1,0 +1,144 @@
+.head {
+    height: 70px;
+    background-color: #F6F6F6;
+    opacity: 0.8;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow: 0px 15px 10px -15px #111;
+}
+
+.text {
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    color: #282828;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.work {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 82em;
+}
+
+.about {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 85em;
+}
+
+.kintro {
+    background-color: #F6F6F6;
+    height: 700px;
+    /*position: relative;*/
+}
+
+.kintro .img {
+    height: 600px;
+    width: 1000px;
+    background: url(../resources/kraftful.png);
+    overflow: hidden;
+    background-size:cover;
+    margin-left: 400px;
+    margin-top: 40px;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.kintro .text {
+    font-family: monospace;
+    font-size: 17px;
+    margin-top: 200px;
+}
+
+.kbrief {
+    height: 350px;
+    background-color: black;
+    position: relative;
+}
+
+.kbrief .introduction {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.kbrief .timeline {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 900px;
+}
+
+.kbrief .myrole {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 900px;
+}
+
+.kbrief .caption {
+    font-family: monospace;
+    color: #F6F6F6;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.kbrief .details {
+    width: 13cm;
+    margin-top: -5px;
+    color: #F6F6F6;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.kinsights {
+    height: 700px;
+    background-color: #F6F6F6;
+    position: relative;
+}
+
+.kinsights .text1 {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: monospace;
+    width: 300px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.kfeatures {
+    height: 900px;
+    background-color: black;
+    position: relative;
+}
+
+.kfeatures .caption {
+    color: #F6F6F6;
+    font-weight: 700;
+    font-size: 26px;
+    margin-top: 40px;
+    margin-left: 600px;
+    position: absolute;
+}
+
+.kfeatures .login {
+    position: absolute;
+    margin-top: 120px;
+}
+
+.kfeatures .choose {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 750px;
+}
+
+
+
+
+

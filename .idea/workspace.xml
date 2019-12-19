@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bed0eb4b-3429-48aa-970f-56bde8154750" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MiUi.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MiUi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MiUi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MiUi.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MusicHunter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MusicHunter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MusicHunter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MusicHunter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Redesign.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Redesign.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Kraftful.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kraftful.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Kraftful.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kraftful.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +47,13 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages/music" />
       <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -100,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575933198153</updated>
       <workItem from="1575933199507" duration="13499000" />
-      <workItem from="1576088089094" duration="44244000" />
+      <workItem from="1576088089094" duration="51256000" />
     </task>
     <servers />
   </component>
@@ -108,30 +103,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576190191656">
+    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576739213074">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1576190191656" />
+    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1576739213074" />
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576299341483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1576299341482" />
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1576641009523">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1576777168467">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576641009523" />
-    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1576641009522">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576777168466" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1576777168465">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576641009522" />
-    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1576641009519">
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576777168465" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1576777168464">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576641009519" />
-    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1576641009522">
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576777168464" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1576777168466">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576641009522" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576777168466" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1576100064706">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
