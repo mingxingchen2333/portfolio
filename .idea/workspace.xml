@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bed0eb4b-3429-48aa-970f-56bde8154750" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Kraftful.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kraftful.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Kraftful.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kraftful.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575933198153</updated>
       <workItem from="1575933199507" duration="13499000" />
-      <workItem from="1576088089094" duration="55426000" />
+      <workItem from="1576088089094" duration="58036000" />
+      <workItem from="1576809606414" duration="1237000" />
     </task>
     <servers />
   </component>
@@ -112,22 +112,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1576799776569" />
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1576803489137">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1576813899526">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576803489137" />
-    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1576803489135">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576813899526" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1576813899525">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576803489135" />
-    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1576803489127">
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576813899525" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1576813899524">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576803489127" />
-    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1576803489136">
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576813899524" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1576813899526">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576803489136" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576813899526" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1576100064706">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
