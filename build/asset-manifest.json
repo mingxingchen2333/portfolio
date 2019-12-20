@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.65587916.chunk.css",
+    "main.js": "./static/js/main.cc1d14b9.chunk.js",
+    "main.js.map": "./static/js/main.cc1d14b9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3d2bd151.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3d2bd151.js.map",
+    "static/js/2.7215e40d.chunk.js": "./static/js/2.7215e40d.chunk.js",
+    "static/js/2.7215e40d.chunk.js.map": "./static/js/2.7215e40d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e4df581d6b9380b99f1de7d3def213c2.js": "./precache-manifest.e4df581d6b9380b99f1de7d3def213c2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.65587916.chunk.css.map": "./static/css/main.65587916.chunk.css.map",
+    "static/js/2.7215e40d.chunk.js.LICENSE": "./static/js/2.7215e40d.chunk.js.LICENSE",
+    "static/media/Kraftful.css": "./static/media/start.4313a533.png",
+    "static/media/New.mp4": "./static/media/New.8a627957.mp4",
+    "static/media/NewProject2333.mp4": "./static/media/NewProject2333.b2626ab2.mp4",
+    "static/media/MiUi.css": "./static/media/apps.87961f78.png",
+    "static/media/choose.mp4": "./static/media/choose.3a236f3e.mp4",
+    "static/media/filterVd.mp4": "./static/media/filterVd.0722690e.mp4",
+    "static/media/MusicHunter.css": "./static/media/poster.f7b80812.png",
+    "static/media/Home.css": "./static/media/redesign.e269b19a.png",
+    "static/media/login.mp4": "./static/media/login.296c0d59.mp4",
+    "static/media/mode.mp4": "./static/media/mode.4044f1ea.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d2bd151.js",
+    "static/js/2.7215e40d.chunk.js",
+    "static/css/main.65587916.chunk.css",
+    "static/js/main.cc1d14b9.chunk.js"
+  ]
+}
