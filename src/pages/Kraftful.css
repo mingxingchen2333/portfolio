@@ -113,7 +113,7 @@
 }
 
 .kfeatures {
-    height: 900px;
+    height: 1200px;
     background-color: black;
     position: relative;
 }
@@ -137,6 +137,66 @@
     margin-top: 350px;
     margin-left: 750px;
 }
+
+.kfeatures .mode {
+    position: absolute;
+    margin-top: 800px;
+}
+
+.interactions {
+    height: 900px;
+    background-color: #F6F6F6;
+    position: relative;
+}
+
+.interactions .caption {
+    font-weight: 700;
+    font-size: 26px;
+    margin-top: 40px;
+    margin-left: 600px;
+    position: absolute;
+}
+
+.interactions .start {
+    height: 300px;
+    width: 150px;
+    background: url(../resources/start.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.interactions .signIn {
+    height: 300px;
+    width: 150px;
+    background: url(../resources/signIn.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 10px;
+}
+
+.interactions .homePage {
+    height: 300px;
+    width: 150px;
+    background: url(../resources/HomePage.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.interactions .arrow1 {
+}
+
+
+
+
+
 
 
 

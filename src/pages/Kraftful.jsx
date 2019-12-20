@@ -3,6 +3,7 @@ import ReactPlayer from "react-player";
 import './Kraftful.css';
 import Login from '../resources/login.mp4';
 import Choose from '../resources/choose.mp4';
+import Mode from '../resources/mode.mp4';
 
 export default class Kraftful extends Component{
     constructor() {
@@ -69,6 +70,19 @@ export default class Kraftful extends Component{
                 <div>
                     <div className="choose"><ReactPlayer url={Choose} playing='true' loop='true'/></div>
                 </div>
+                <div>
+                    <div className='mode'><ReactPlayer url={Mode} playing='true' loop='true'/></div>
+                </div>
+            </div>
+
+            {/*interactions*/}
+            <div className="interactions">
+                <p className="caption">Interaction Wireflow</p>
+                <div className="start"/>
+                <div className="signIn"/>
+                <span>&#8594;</span>
+                <div className="homePage"/>
+
             </div>
             </body>
         );
