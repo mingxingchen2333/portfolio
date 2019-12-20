@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed0eb4b-3429-48aa-970f-56bde8154750" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.e39decd31d60336837d3fc827b251e69.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.144df231.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.144df231.chunk.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +100,7 @@
       <workItem from="1575933199507" duration="13499000" />
       <workItem from="1576088089094" duration="58036000" />
       <workItem from="1576809606414" duration="5792000" />
-      <workItem from="1576879772335" duration="1264000" />
+      <workItem from="1576879772335" duration="1509000" />
     </task>
     <servers />
   </component>
