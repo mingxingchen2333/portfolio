@@ -105,7 +105,7 @@ export default class Home extends Component {
                 </div>
                 <div className="wrapper">
                     <div id="row1">
-                        <div className="miui" onMouseEnter={this.handleMouseEnterPart1} onMouseLeave={this.handleMouseLeavePart1} onClick={event => window.location.href='/#/miui'}>
+                        <div className="miui" onMouseEnter={this.handleMouseEnterPart1} onMouseLeave={this.handleMouseLeavePart1} onClick={event => window.location.href='./#/miui'}>
                             <div className="details" style={{opacity: this.state.opacity1}}/>
                             <div className="img__description" style={{display: this.state.display1}}>
                                 <h1 style={{}}>MiUi</h1>
