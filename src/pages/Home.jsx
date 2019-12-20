@@ -101,7 +101,7 @@ export default class Home extends Component {
                     <div className="header"/>
                     <p className="text"><a style={{textDecoration: 'none', color: '#282828', fontSize:'25px'}} href={'./#'}>Xingchen Ming</a></p>
                     <p className="work"><a style={{textDecoration: 'none', color: '#282828'}}>Work</a></p>
-                    <p className="about"><a style={{textDecoration: 'none', color: '#282828'}} href={'/about'}>About</a></p>
+                    <p className="about"><a style={{textDecoration: 'none', color: '#282828'}} href={'/#/about'}>About</a></p>
                 </div>
                 <div className="wrapper">
                     <div id="row1">
