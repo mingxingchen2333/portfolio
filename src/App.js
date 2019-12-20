@@ -16,12 +16,12 @@ export default class App extends Component {
     return (
         <header>
             <Switch>
-                <Route exact path="/" component={Home}/>
-                <Route exact path="/about" component={About}/>
-                <Route exact path="/miui" component={MiUi}/>
-                <Route exact path="/redesign" component={Redesign}/>
-                <Route exact path="/music" component={MusicHunter}/>
-                <Route exact path="/kraftful" component={Kraftful}/>
+                <Route exact path="./" component={Home}/>
+                <Route exact path="./about" component={About}/>
+                <Route exact path="./miui" component={MiUi}/>
+                <Route exact path="./redesign" component={Redesign}/>
+                <Route exact path="./music" component={MusicHunter}/>
+                <Route exact path="./kraftful" component={Kraftful}/>
             </Switch>
         </header>
     );
