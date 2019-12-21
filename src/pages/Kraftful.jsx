@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ReactPlayer from "react-player";
 import './Kraftful.css';
+import Arrow from "../components/arrow";
 import Login from '../resources/login.mp4';
 import Choose from '../resources/choose.mp4';
 import Mode from '../resources/mode.mp4';
@@ -77,12 +78,14 @@ export default class Kraftful extends Component{
 
             {/*interactions*/}
             <div className="interactions">
-                <p className="caption">Interaction Wireflow</p>
-                <div className="start"/>
-                <div className="signIn"/>
-                <span>&#8594;</span>
                 <div className="homePage"/>
-
+                <p className="lockText">Lock</p>
+                <div className="robot"/>
+                <p className="robotText">Robot</p>
+                <div className="thermo"/>
+                <p className="thermoText">Thermostats</p>
+                <div className="manage"/>
+                <p className="homeText">Home Page</p>
             </div>
             </body>
         );

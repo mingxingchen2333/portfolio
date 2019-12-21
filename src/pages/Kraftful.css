@@ -144,8 +144,8 @@
 }
 
 .interactions {
-    height: 900px;
-    background-color: #F6F6F6;
+    height: 1500px;
+    background-color: #E5E5E5;
     position: relative;
 }
 
@@ -157,32 +157,39 @@
     position: absolute;
 }
 
-.interactions .start {
-    height: 300px;
-    width: 150px;
-    background: url(../resources/start.png);
-    overflow: hidden;
-    background-size:cover;
-    display: inline-block;
-    margin-top: 150px;
-    margin-left: 50px;
+.interactions .lockText {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 130px;
+    margin-left: 180px;
 }
 
-.interactions .signIn {
-    height: 300px;
-    width: 150px;
-    background: url(../resources/signIn.png);
-    overflow: hidden;
-    background-size:cover;
-    display: inline-block;
-    margin-top: 150px;
-    margin-left: 10px;
+.interactions .robotText {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 130px;
+    margin-left: 600px;
+}
+
+.interactions .thermoText {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 130px;
+    margin-left: 1000px;
+}
+
+.interactions .homeText {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 770px;
+    margin-left: 380px;
 }
 
 .interactions .homePage {
-    height: 300px;
-    width: 150px;
-    background: url(../resources/HomePage.png);
+    height: 550px;
+    width: 300px;
+    position: absolute;
+    background: url(../resources/lock.png);
     overflow: hidden;
     background-size:cover;
     display: inline-block;
@@ -190,12 +197,41 @@
     margin-left: 50px;
 }
 
-.interactions .arrow1 {
+.interactions .robot {
+    height: 550px;
+    width: 420px;
+    position: absolute;
+    background: url(../resources/robot.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 130px;
+    margin-left:400px;
 }
 
+.interactions .manage {
+    height: 550px;
+    width: 700px;
+    position: absolute;
+    background: url(../resources/manage.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 800px;
+    margin-left: 80px;
+}
 
-
-
+.interactions .thermo {
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    background: url(../resources/thermo.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 900px;
+}
 
 
 
