@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dd8deb5b00e8be3efa4d0e37e9b50e6",
+    "revision": "471afb0dff37b4b91caa250c41cfa9cf",
     "url": "./index.html"
   },
   {
-    "revision": "0b4a2b873131bd6ab52b",
-    "url": "./static/css/main.65587916.chunk.css"
+    "revision": "8de831c9901c9d54331d",
+    "url": "./static/css/main.8fec766a.chunk.css"
   },
   {
-    "revision": "2ebe93f6f1bc5f457c70",
-    "url": "./static/js/2.904e492a.chunk.js"
+    "revision": "3fb512f37852c38e8986",
+    "url": "./static/js/2.c8720047.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "./static/js/2.904e492a.chunk.js.LICENSE"
+    "url": "./static/js/2.c8720047.chunk.js.LICENSE"
   },
   {
-    "revision": "0b4a2b873131bd6ab52b",
-    "url": "./static/js/main.3dde3a4b.chunk.js"
+    "revision": "8de831c9901c9d54331d",
+    "url": "./static/js/main.c31be3b9.chunk.js"
   },
   {
     "revision": "dcf4e72962e0e6fa882e",
     "url": "./static/js/runtime-main.3d2bd151.js"
-  },
-  {
-    "revision": "aa771deab9922917adff389f65ea0393",
-    "url": "./static/media/HomePage.aa771dea.png"
   },
   {
     "revision": "8a6279574f769c7d2e0bf39c06ee0489",
@@ -60,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/kraftful.872f35d7.png"
   },
   {
+    "revision": "d886489cbabba4ab767d27034b8cc50b",
+    "url": "./static/media/lock.d886489c.png"
+  },
+  {
     "revision": "296c0d5990755ccd46948a79eb5436aa",
     "url": "./static/media/login.296c0d59.mp4"
+  },
+  {
+    "revision": "b550b3cea0e6acac21050ce21ffc70da",
+    "url": "./static/media/manage.b550b3ce.png"
   },
   {
     "revision": "5c231876338306c580fb7652a855aaab",
@@ -84,11 +88,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/redesign.e269b19a.png"
   },
   {
-    "revision": "0f1d7750c813bc15e450648c60600a58",
-    "url": "./static/media/signIn.0f1d7750.png"
+    "revision": "f6e5ee0cf13faa5291b8931ff18874be",
+    "url": "./static/media/robot.f6e5ee0c.png"
   },
   {
-    "revision": "4313a533c37913d1233bf13e55973545",
-    "url": "./static/media/start.4313a533.png"
+    "revision": "b8637209d9e68ea0f2e4a27f4458c0f2",
+    "url": "./static/media/thermo.b8637209.png"
   }
 ]);
