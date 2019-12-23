@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d557cacf7efc9d8ca54fad3a0b4902b5",
+    "revision": "f111af235e201362e4e04eea3bfb48ed",
     "url": "./index.html"
   },
   {
-    "revision": "13105baa3030cde4dec8",
-    "url": "./static/css/main.e9e44235.chunk.css"
+    "revision": "1e8f51837dc9a175edfd",
+    "url": "./static/css/main.d8fc9f57.chunk.css"
   },
   {
-    "revision": "ba5783b0dd92e5d1448d",
-    "url": "./static/js/2.cd62bd6f.chunk.js"
+    "revision": "98843f57702a9d323b2e",
+    "url": "./static/js/2.f650dbab.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "./static/js/2.cd62bd6f.chunk.js.LICENSE"
+    "url": "./static/js/2.f650dbab.chunk.js.LICENSE"
   },
   {
-    "revision": "13105baa3030cde4dec8",
-    "url": "./static/js/main.2b8791c4.chunk.js"
+    "revision": "1e8f51837dc9a175edfd",
+    "url": "./static/js/main.16d7f584.chunk.js"
   },
   {
     "revision": "dcf4e72962e0e6fa882e",
@@ -42,6 +42,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0722690e91123c93883b6445915fe8b4",
     "url": "./static/media/filterVd.0722690e.mp4"
+  },
+  {
+    "revision": "52287b83b94ad77e0b3b681181924754",
+    "url": "./static/media/fire.52287b83.png"
+  },
+  {
+    "revision": "7a3502fe3c0457871946125ac77a4729",
+    "url": "./static/media/fire.7a3502fe.mp3"
   },
   {
     "revision": "6a78e3a004c6a71486b25bbe9380091d",
@@ -76,12 +84,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/manage.b550b3ce.png"
   },
   {
+    "revision": "e09c2077d7729f5d440aff8afc89adf3",
+    "url": "./static/media/miLogo.e09c2077.png"
+  },
+  {
     "revision": "5c231876338306c580fb7652a855aaab",
     "url": "./static/media/miui.5c231876.png"
   },
   {
     "revision": "4044f1ea477a0c6db89187786a1a05b6",
     "url": "./static/media/mode.4044f1ea.mp4"
+  },
+  {
+    "revision": "af31a15fec6e019becf6bb67aeba4ea6",
+    "url": "./static/media/moon.af31a15f.png"
   },
   {
     "revision": "4c8ea1bd38d6ff82a74a51390f6937aa",
@@ -108,11 +124,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/smartlock.ef4ce0a5.jpg"
   },
   {
+    "revision": "7eee0f461d13482e722875d2e6ed33e9",
+    "url": "./static/media/sun.7eee0f46.png"
+  },
+  {
     "revision": "a14328d9560c2a9677acbd6c40ef74fa",
     "url": "./static/media/thermo.a14328d9.jpeg"
   },
   {
     "revision": "b8637209d9e68ea0f2e4a27f4458c0f2",
     "url": "./static/media/thermo.b8637209.png"
+  },
+  {
+    "revision": "10c7d800a2a4b783bef8edd12f812aa2",
+    "url": "./static/media/water.10c7d800.png"
+  },
+  {
+    "revision": "04759cb8fb5f183c814fa9df84dbb299",
+    "url": "./static/media/wood.04759cb8.png"
   }
 ]);
