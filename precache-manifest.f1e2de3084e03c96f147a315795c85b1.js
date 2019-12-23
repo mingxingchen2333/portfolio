@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f111af235e201362e4e04eea3bfb48ed",
+    "revision": "12f908e58b061bf5d5b3b822ff704d0d",
     "url": "./index.html"
   },
   {
-    "revision": "1e8f51837dc9a175edfd",
-    "url": "./static/css/main.d8fc9f57.chunk.css"
+    "revision": "31ce88de54e43d40c021",
+    "url": "./static/css/main.c4b46ac0.chunk.css"
   },
   {
-    "revision": "98843f57702a9d323b2e",
-    "url": "./static/js/2.f650dbab.chunk.js"
+    "revision": "a242ba83d7f0e84f19de",
+    "url": "./static/js/2.53487a15.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "./static/js/2.f650dbab.chunk.js.LICENSE"
+    "url": "./static/js/2.53487a15.chunk.js.LICENSE"
   },
   {
-    "revision": "1e8f51837dc9a175edfd",
-    "url": "./static/js/main.16d7f584.chunk.js"
+    "revision": "31ce88de54e43d40c021",
+    "url": "./static/js/main.1db17fce.chunk.js"
   },
   {
     "revision": "dcf4e72962e0e6fa882e",
     "url": "./static/js/runtime-main.3d2bd151.js"
+  },
+  {
+    "revision": "36888a7c6f9a5047950d2f23f23546e3",
+    "url": "./static/media/Clothing.36888a7c.png"
   },
   {
     "revision": "8a6279574f769c7d2e0bf39c06ee0489",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a3502fe3c0457871946125ac77a4729",
     "url": "./static/media/fire.7a3502fe.mp3"
+  },
+  {
+    "revision": "97b58989febf2bb25a456207d60a9f57",
+    "url": "./static/media/gamestop.97b58989.png"
   },
   {
     "revision": "6a78e3a004c6a71486b25bbe9380091d",
@@ -108,6 +116,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/poster.f7b80812.png"
   },
   {
+    "revision": "ef1bcc59fcfb96dc0432abea9853cbfb",
+    "url": "./static/media/rHome.ef1bcc59.png"
+  },
+  {
     "revision": "e269b19a0e57df485b27222eb6726768",
     "url": "./static/media/redesign.e269b19a.png"
   },
@@ -118,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5f70891800c9985a51e3478d734c150",
     "url": "./static/media/robotLogo.d5f70891.png"
+  },
+  {
+    "revision": "b5e8f0b3252c94add26111da71419213",
+    "url": "./static/media/rposter.b5e8f0b3.png"
   },
   {
     "revision": "ef4ce0a548d6415313089013f89609bb",
@@ -134,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8637209d9e68ea0f2e4a27f4458c0f2",
     "url": "./static/media/thermo.b8637209.png"
+  },
+  {
+    "revision": "073b1f48b27f0e232d723d583bdd1717",
+    "url": "./static/media/tradeIn.073b1f48.png"
   },
   {
     "revision": "10c7d800a2a4b783bef8edd12f812aa2",
