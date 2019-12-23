@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "471afb0dff37b4b91caa250c41cfa9cf",
+    "revision": "d557cacf7efc9d8ca54fad3a0b4902b5",
     "url": "./index.html"
   },
   {
-    "revision": "8de831c9901c9d54331d",
-    "url": "./static/css/main.8fec766a.chunk.css"
+    "revision": "13105baa3030cde4dec8",
+    "url": "./static/css/main.e9e44235.chunk.css"
   },
   {
-    "revision": "3fb512f37852c38e8986",
-    "url": "./static/js/2.c8720047.chunk.js"
+    "revision": "ba5783b0dd92e5d1448d",
+    "url": "./static/js/2.cd62bd6f.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "./static/js/2.c8720047.chunk.js.LICENSE"
+    "url": "./static/js/2.cd62bd6f.chunk.js.LICENSE"
   },
   {
-    "revision": "8de831c9901c9d54331d",
-    "url": "./static/js/main.c31be3b9.chunk.js"
+    "revision": "13105baa3030cde4dec8",
+    "url": "./static/js/main.2b8791c4.chunk.js"
   },
   {
     "revision": "dcf4e72962e0e6fa882e",
@@ -44,12 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/filterVd.0722690e.mp4"
   },
   {
+    "revision": "6a78e3a004c6a71486b25bbe9380091d",
+    "url": "./static/media/genres.6a78e3a0.png"
+  },
+  {
     "revision": "dbcf9652115bdf6755eaabb07a26b16d",
     "url": "./static/media/hello.dbcf9652.png"
   },
   {
     "revision": "af945c46651ae6c03343e44cc7c29c20",
     "url": "./static/media/home.af945c46.png"
+  },
+  {
+    "revision": "cc41a2970a77a3c3e14ae4f2a55f3007",
+    "url": "./static/media/kraftHome.cc41a297.png"
   },
   {
     "revision": "872f35d7efa66af93a9e57e7f9d9b500",
@@ -90,6 +98,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f6e5ee0cf13faa5291b8931ff18874be",
     "url": "./static/media/robot.f6e5ee0c.png"
+  },
+  {
+    "revision": "d5f70891800c9985a51e3478d734c150",
+    "url": "./static/media/robotLogo.d5f70891.png"
+  },
+  {
+    "revision": "ef4ce0a548d6415313089013f89609bb",
+    "url": "./static/media/smartlock.ef4ce0a5.jpg"
+  },
+  {
+    "revision": "a14328d9560c2a9677acbd6c40ef74fa",
+    "url": "./static/media/thermo.a14328d9.jpeg"
   },
   {
     "revision": "b8637209d9e68ea0f2e4a27f4458c0f2",

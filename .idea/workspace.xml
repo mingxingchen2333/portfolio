@@ -2,22 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed0eb4b-3429-48aa-970f-56bde8154750" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/resources/fire.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.707e0bd957bab028fa04be9b580566b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.a99f44f62e5c6db409dc3f22ff756d47.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.2de89453.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.2de89453.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8fec766a.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8fec766a.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.c8720047.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.c8720047.chunk.js.LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.c8720047.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c31be3b9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c31be3b9.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Kraftful.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kraftful.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Kraftful.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kraftful.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MiUi.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MiUi.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/MiUi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MiUi.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/HomeDelete.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/HomeDeleteFinished.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/HomeDropDown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/HomeManage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/HomeManageConfirm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/HomePage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MusicHunter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MusicHunter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MusicHunter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MusicHunter.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +116,7 @@
       <workItem from="1575933199507" duration="13499000" />
       <workItem from="1576088089094" duration="58036000" />
       <workItem from="1576809606414" duration="5792000" />
-      <workItem from="1576879772335" duration="10716000" />
+      <workItem from="1576879772335" duration="31358000" />
     </task>
     <servers />
   </component>
@@ -122,39 +128,39 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1576739213074" />
-    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576902853132">
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577072888370">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1576902853132" />
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1577072888370" />
     <state x="438" y="164" key="#npm_start" timestamp="1576825815389">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="438" y="164" key="#npm_start/0.0.1440.900@0.0.1440.900" timestamp="1576825815389" />
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1576905510449">
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1577089497183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576905510449" />
-    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1576905510448">
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577089497183" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1577089497183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576905510448" />
-    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1576905510448">
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577089497183" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1577089497182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576905510448" />
-    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1576905510449">
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577089497182" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1577089497183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576905510449" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577089497183" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1576100064706">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576100064706" />
-    <state x="100" y="85" width="1240" height="777" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576100027102">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="100" y="85" width="1240" height="777" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577043948883">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="100" y="85" width="1240" height="777" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1576100027102" />
-    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.811@0.23.1440.811" timestamp="1576085253132" />
+    <state x="100" y="85" width="1240" height="777" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.811@0.23.1440.811" timestamp="1577043948883" />
     <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576198910863">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

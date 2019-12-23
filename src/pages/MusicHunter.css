@@ -38,7 +38,7 @@
     /*position: relative;*/
 }
 
-.intro .poster {
+.intro .miposter {
     height: 400px;
     width: 500px;
     background: url(../resources/poster.png);
@@ -70,7 +70,7 @@
 }
 
 .intro .caption {
-    font-family: monospace;
+    font-family: "Times New Roman", Times, serif;
     font-size: 25px;
     font-weight: 500;
 }
@@ -79,14 +79,14 @@
     width: 15cm;
     margin-top: -5px;
     color: #282828;
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     font-weight: 300;
 }
 
 .features {
     background-color: black;
-    height: 1500px
+    height: 1300px
 }
 
 .features .container {
@@ -110,9 +110,64 @@
     display: inline-block;
 }
 
+
+/*music insights*/
 .insights {
     background-color: #F5F5F5;
+    height: 800px;
+    position: relative;
+}
+
+.insights .img {
+    background: url("../resources/genres.png");
     height: 500px;
+    width: 900px;
+    opacity: 0.9;
+    position: absolute;
+    background-size:cover;
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.insights .text1 {
+    color: #2E86C1;
+    margin-top: 15%;
+    margin-left: 1%;
+    position: absolute;
+    width: 300px;
+}
+
+.insights .text2 {
+    color: #28B463;
+    margin-top: 30%;
+    margin-left: 1%;
+    position: absolute;
+    width: 300px;
+}
+
+.insights .text3 {
+    color: #D68910;
+    margin-top: 15%;
+    margin-left: 76%;
+    position: absolute;
+    width: 300px;
+}
+
+.insights .text4 {
+    color: #C0392B;
+    margin-top: 30%;
+    margin-left: 76%;
+    position: absolute;
+    width: 300px;
+}
+
+.insights .text5 {
+    color: #7D3C98;
+    margin-top: 46%;
+    margin-left: 23%;
+    position: absolute;
+    width: 800px;
 }
 
 

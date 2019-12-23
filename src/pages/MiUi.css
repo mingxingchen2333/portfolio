@@ -35,7 +35,7 @@
 .project-intro {
     height: 700px;
     opacity: 0.8;
-    background: url(../resources/apps.png);
+    background: url('../resources/apps.png');
     overflow: hidden;
     background-size:cover;
 }
@@ -53,7 +53,7 @@
     font-weight: bold;
     position: absolute;
     font-size: 20px;
-    margin-left: 400px;
+    margin-left: 27%;
     margin-top: 150px;
 }
 
@@ -63,7 +63,7 @@
     font-weight: bold;
     position: absolute;
     font-size: 18px;
-    margin-left: 230px;
+    margin-left: 14%;
     margin-top: 180px;
 }
 
@@ -73,7 +73,145 @@
     margin-left: 400px
 }
 
-.preface {
-    height: 700px;
+
+/*miui intro*/
+.intro {
+    background-color: #F5F5F5;
+    height: 500px;
+    /*position: relative;*/
+}
+
+.intro .poster {
+    height: 400px;
+    width: 300px;
+    background: url(../resources/miLogo.png);
+    opacity: 0.8;
+    overflow: hidden;
     background-color: #F6F6F6;
+    background-size:cover;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 12%;
+}
+
+.intro .brief {
+    display: inline-block;
+    margin-left: 14%;
+    margin-top: 100px;
+    position: absolute;
+}
+
+.intro .mtimeline {
+    display: inline-block;
+    margin-left: 14%;
+    margin-top: 220px;
+    position: absolute;
+}
+
+.intro .mrole {
+    display: inline-block;
+    margin-left: 14%;
+    margin-top: 300px;
+    position: absolute;
+}
+
+.intro .mcaption {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.intro .mdetails {
+    width: 15cm;
+    margin-top: -5px;
+    color: #282828;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+/*miui insights*/
+.minsights {
+    background-color: black;
+    height: 600px;
+    position: relative;
+}
+
+.minsights .caption {
+    color: #F6F6F6;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 32%;
+}
+
+.minsights .details {
+    color: #F6F6F6;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 36%;
+}
+
+.minsights .sun {
+    height: 400px;
+    width: 230px;
+    background: url(../resources/sun.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 8%;
+}
+
+.minsights .moon {
+    height: 400px;
+    width: 210px;
+    background: url(../resources/moon.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    position: absolute;
+    margin-top: 132px;
+    margin-left: 24%;
+}
+
+.minsights .fire {
+    height: 400px;
+    width: 206px;
+    background: url(../resources/fire.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    position: absolute;
+    margin-top: 117px;
+    margin-left: 39.2%;
+}
+
+.minsights .water {
+    height: 400px;
+    width: 211px;
+    background: url(../resources/water.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 54%;
+}
+
+.minsights .wood {
+    height: 400px;
+    width: 218px;
+    background: url(../resources/wood.png);
+    overflow: hidden;
+    background-size:cover;
+    display: inline-block;
+    position: absolute;
+    margin-top: 117px;
+    margin-left: 69%;
 }

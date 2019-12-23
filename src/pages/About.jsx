@@ -8,7 +8,7 @@ export default class About extends Component {
 
     render() {
         return (
-            <h1>About Me!</h1>
+            <h1></h1>
         );
     }
 
